@@ -32,5 +32,5 @@ Competibliabty for hiding author:  Slim SEO, Yoast, WP SEO, Rank Math. The SEO F
 
 1. Go to 'Plugins' in the Admin menu
 2. Click on the button 'Add new' 
-3. Search for 'simply-hide-author' and click 'Install Now' or click on the `upload` link to upload `nodoss.zip`
+3. Search for 'simply-hide-author' and click 'Install Now' or click on the `upload` link to upload `simply-hide-author.zip`
 4. Click on 'Activate plugin' 
