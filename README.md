@@ -17,9 +17,11 @@ Do you want to hide and disable the comment author link in WordPress and hide th
 This is a plugin that is minimalist with not much code; only PHP script and little CSS will be inlined to ensure that the author 
 is no longer visible to the online public.
 
+<!-- Author name removed -->
 
-Competibliabty for hiding author:  Slim SEO, Yoast, WP SEO, Rank Math. The SEO Framework
+Competibliabty for hiding author:  Yoast SEO,WP Seo, The SEO Framework, AIOSEO, Rank Math, Astra Themes,  
 
+Remove author from general WordPress and author meta from AMP, and removed Storefront author credit.
 
 == Installation ==
 
