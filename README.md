@@ -66,7 +66,7 @@ Yes, o.a. with Astra Themes , Genesis Themes, Twenty Twelve
 = 1.0.2: November 20, 2025 =
 * Update performance.
 = 1.0.5  08 April 2026 =
-Slugname Frontiers Hide Author Name 
+* Slugname Frontiers Hide Author Name 
 
 == Upgrade Notice ==
 Just Hides the author name from your WordPress blog.
