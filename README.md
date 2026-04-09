@@ -50,9 +50,6 @@ Yes, o.a. with Astra Themes , Genesis Themes, Twenty Twelve
 
 == Screenshots ==
 
-
-== Screenshots ==
-
 1. banner-772-250.png
 2. icon.png
 3. icon.svg
