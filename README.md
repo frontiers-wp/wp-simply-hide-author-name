@@ -69,7 +69,13 @@ It has indeed been tested using the latest version of PHP 8.4. 
 = 1.0.5  08 April 2026 =
 * Slugname Frontiers Hide Author Name
 = 1.0.5  08 April 2026 =
-* Update Readme. 
-
+* Update Readme.
+= 1.0.7 August 23, 2026 =
+* Tested on WordPress 7.1
+* Tested on PHP 8.5
+* Requires PHP 8.1 (or higher)
+  
 == Upgrade Notice ==
 Just Hides the author name from your WordPress blog.
+
+
