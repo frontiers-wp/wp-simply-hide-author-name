@@ -2,10 +2,10 @@
 Contributors: Frontiers
 Donate link: https://paypal.me/EBekedam
 Tags: hide author, spam, bots
-Requires at least: 5.0
-Tested up to: 6.9
-Requires PHP: 7.4
-Stable tag: 1.0.6
+Requires at least: 5.6
+Tested up to: 7.1
+Requires PHP: 8.1
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +26,7 @@ Remove author from general WordPress and author meta from AMP, and removed Store
 
 == Installation ==
 
-1. Upload 'frontiers-hide-author-nanme.zip' to the '/wp-content/plugins/' directory
+1. Upload 'simply-hide-author.zip' to the '/wp-content/plugins/' directory
 2. Extract the Plugin to 'frontiers-hide-author-name' Folder
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. no settings need – just Activate and enjoy.
@@ -62,19 +62,21 @@ It has indeed been tested using the latest version of PHP 8.4. 
 
 = 1.0.0: November 01, 2025 =
 * Birthday of Simply Hide Author
-= 1.0.1: November 02, 2025 =
-* function name update
-= 1.0.2: November 20, 2025 =
-* Update performance.
+
 = 1.0.5  08 April 2026 =
 * Slugname Frontiers Hide Author Name
+
 = 1.0.5  08 April 2026 =
-* Update Readme.
+* Update Readme. 
+
 = 1.0.7 August 23, 2026 =
 * Tested on WordPress 7.1
 * Tested on PHP 8.5
 * Requires PHP 8.1 (or higher)
-  
+
+= 1.0.8 Sep 08, 2026
+* PHP update competible 8.5
+
 == Upgrade Notice ==
 Just Hides the author name from your WordPress blog.
 
